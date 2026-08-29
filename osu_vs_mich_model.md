@@ -72,28 +72,28 @@
 
 ### Michigan (UM)
 * **12-2 overall record:**
-* 11-1 (8-1) reg. season record 230
-*	The Game Win 350
-* Won The Game by 15 
-* B1G title 300
-* B1G title app. 200
-* CFP appearance 150
-* NY6 bowl appearance 90
-* Bowl appearance 80
-* 1 AP/CFP top 5 win 60
-* 1 AP/CFP top 10 win 50
-* 2 ranked wins 50
-* Finished #3 in final AP poll 23
-* 1 loss as ranked team -25
-* Heisman finalist 75
-* 10 NFL draft picks 200 points		
-* 2 consensus all americans 140
-* 1 first round draft pick 40
-* 8 NFL draft picks 160
-* 5 national individual awards 250
-* 3 Big ten individual awards 75
-* 6 first team all B1G selections 90
-* 15 all big ten selections 75
+* 11-1 (8-1) reg. season record: 230 pts
+* The Game Win: 350 pts
+* Won The Game: by 15 pts 
+* B1G title: 300 pts
+* B1G title app: 200 pts
+* CFP appearance: 150 pts
+* NY6 bowl appearance: 90 pts
+* Bowl appearance: 80 pts
+* 1 AP/CFP top 5 win: 60 pts
+* 1 AP/CFP top 10 win: 50 pts
+* 2 ranked wins: 50 pts
+* Finished #3 in final AP poll: 23 pts
+* 1 loss as ranked team: -25 pts
+* Heisman finalist: 75 pts
+* 10 NFL draft picks: 200 pts	
+* 2 consensus all americans: 140 pts
+* 1 first round draft pick: 40 pts
+* 8 NFL draft picks: 160 pts
+* 5 national individual awards: 250 pts
+* 3 Big ten individual awards: 75 pts
+* 6 first team all B1G selections: 90 pts
+* 15 all big ten selections: 75 pts
 * **Total:** 2,478 points
 
 ---
@@ -158,142 +158,163 @@
 ### Ohio State (OSU)							
 * **11-2 overall record:**						
 * 11-1 (8-1)  reg. season record: 230 pts			
-* NY6 Bowl appearance 90 pts				
-* Bowl appearance 80 pts			
-* 2 AP/CFP top 10 wins 100 pts			
-* 2 ranked wins 50 pts				
-* Finished #10 in final AP poll 15 pts				
-* 1 loss as top 5 AP/CFP team -75 pts			
-* 1 loss as ranked team -25 pts 				
-* Lost The Game -200 pts					
-* Lost The Game by 6 points -6 pts			
-* Heisman finalist 75 pts					
-* 1 consensus all american 70 pts				
-* 3 first round draft picks 120 pts					
-* 6 NFL draft picks 120 pts					
-* 1 national individual award  50 pts					
-* 4 big ten individual awards 100 pts				
-* 8 first team all selections 120 pts			
-* 17 all big ten selections 85 pts				
-* Top 5 recruiting class 10 pts				
-* 2 5 star recruits landed 6 pts					
+* NY6 Bowl appearance: 90 pts				
+* Bowl appearance: 80 pts			
+* 2 AP/CFP top 10 wins: 100 pts			
+* 2 ranked wins: 50 pts				
+* Finished #10 in final AP poll: 15 pts				
+* 1 loss as top 5 AP/CFP team: -75 pts			
+* 1 loss as ranked team: -25 pts 				
+* Lost The Game: -200 pts					
+* Lost The Game by 6 points: -6 pts			
+* Heisman finalist: 75 pts					
+* 1 consensus all american: 70 pts				
+* 3 first round draft picks: 120 pts					
+* 6 NFL draft picks: 120 pts					
+* 1 national individual award: 50 pts					
+* 4 big ten individual awards: 100 pts				
+* 8 first team all selections: 120 pts			
+* 17 all big ten selections: 85 pts				
+* Top 5 recruiting class: 10 pts				
+* 2 5 star recruits landed: 6 pts					
 * **Total:** 1,015 points						
 
 
 ## Michigan (UM)
 * **15-0 overall record:**	
-* 12-0 (9-0) reg. season record 255
-* Undefeated season 400
-* National Champions 500
-* National championship app. 350
-* The Game win 350
-* Won The Game by 6 points
-* Big ten title 300
-* Big ten title game app. 200
-* 2 playoff wins 500		
-* Playoff appearance 	150		
-* Rose Bowl winners 125		
-* NY6 Bowl appearance 90		
-* 2 bowl wins 200			
-* 2 bowl appearances 160		
-* Undefeated regular season 200	
-* 1 AP/CFP top 5 win 60 points
-* 2 AP/CFP top 10 wins 100 points
-* 2 ranked wins 50
-* Finished #1 in final AP poll 25 
-* 1 consensus all american 70
-* 1 first round draft pick 40
-* 9 NFL draft picks 180
-* 1 national individual award 50
-* 2 big ten individual awards 50
-* 9 first team big ten selections 135
-* 19 all big ten selections 95
+* 12-0 (9-0) reg. season record: 255 pts
+* Undefeated season: 400 pts
+* National Champions: 500 pts
+* National championship app: 350 pts
+* The Game win: 350 pts
+* Won The Game by 6 points: 6 pts
+* Big ten title: 300 pts
+* Big ten title game app: 200 pts
+* 2 playoff wins: 500 pts
+* Playoff appearance: 150 pts
+* Rose Bowl winners: 125	pts
+* NY6 Bowl appearance: 90 pts
+* 2 bowl wins: 200 pts
+* 2 bowl appearances: 160 pts
+* Undefeated regular season: 200 pts
+* 1 AP/CFP top 5 win: 60 pts
+* 2 AP/CFP top 10 wins: 100 pts
+* 2 ranked wins: 50 pts
+* Finished #1 in final AP poll: 25 pts 
+* 1 consensus all american: 70 pts
+* 1 first round draft pick: 40 pts
+* 9 NFL draft picks: 180 pts
+* 1 national individual award: 50 pts
+* 2 big ten individual awards: 50 pts
+* 9 first team big ten selections: 135 pts
+* 19 all big ten selections: 95 pts 
 * **Total:** 4,641 points
 
+---
+
+## 2024
+
+### Ohio State (OSU)					
+* **14-2 overall record:**						
+* 10-2 (7-2) reg. season record: 205 pts				
+* National champions: 500 pts				
+* NC appearance: 350 pts					
+* 4 playoff wins: 1000 pts					
+* CFP appearance: 150 pts				
+* Cotton Bowl winners: (CFP finalist) NC app. pts 
+* Rose Bowl winners: (CFP semifinalist) 125 pts
+* CFP first round winners: (CFP quarterfinalist) 90 pts
+* 3 bowl wins: 400 pts		
+* 3 bowl appearances: 320 pts					
+* 2 AP/CFP top 5 wins: 120 pts		
+* 2 AP/CFP top 10 wins: 100 pts		
+* 2 ranked wins: 50 pts	
+* Finished #1 in final AP poll:	25 pts		
+* 2 losses as top 5 AP/CFP team: -150 pts			
+* 2 losses as ranked team: -50 pts			
+* 1 loss to unranked team: -100 pts				
+* Lost The Game: -200 pts				
+* Lost The Game by 3 points: -3 pts	
+* 2 consensus all americans: 140 pts
+* 1 first round draft pick: 40 pts
+* 4 NFL draft picks: 80 pts
+* 1 national individual award winner: 50 pts
+* 3 big ten award winners: 75 pts
+* 7 first team all big ten selections: 105 pts
+* 16 all big ten selections: 80 pts
+* Top 5 recruiting class: 10 pts
+* 2 5 star recruits landed: 6 pts
+* **Total:** 3,338 points
 
 
+### Michigan (UM)
+* **8-5 overall record:**
+* 7-5 (5-4) reg. season record: 145 pts
+* The Game win: 350 pts
+* Won The Game: by 3 pts
+* Reliaquest bowl winners: 100 pts
+* Bowl appearance: 80 pts
+* 1 AP/CFP top 5 win: 60 pts
+* 1 AP/CFP top 10 win: 50 pts
+* 2 ranked wins: 50 pts
+* 3 losses as ranked team: -75 pts
+* 1 loss to unranked team: -100 pts
+* 1 consensus all american: 70 pts
+* 1 first round draft pick: 40 pts
+* 13 NFL draft picks: 260 pts
+* 1 big ten individual award: 25 pts
+* 3 first team all B1G selections: 45 pts
+* 9 all big ten selections: 45 pts
+* **Total:** 1,148 points
+
+---
+
+## 2025
+
+### Ohio State (OSU)							
+* **12-2 overall record:**						
+* 12-0 (9-0) reg. season record: 255 pts				
+* The Game win: 350 pts					
+* Won The Game by 18 points: 18 pts			
+* B1G title game appearance: 200 pts				
+* CFP appearance: 150 pts					
+* Bowl appearance: 80 pts				
+* Undefeated regular season: 200 pts				
+* 1 AP/CFP top 5 win: 60 pts					
+* 1 AP/CFP top 10 win: 50 pts				
+* 3 ranked wins: 75 pts 					
+* Finished #5 in AP poll: 21 pts					 
+* Heisman finalist: 75 pts					
+* Finished #5 in AP poll: 21 pts					
+* 4 consensus all americans: 280 pts
+* 4 first round picks: 160 pts
+* 14 NFL draft picks: 280 pts
+* 3 national individual award winners: 150 pts
+* 6 big ten individual awards: 75 pts
+* 9 first team all big ten selection: 135 pts
+* 19 all big ten selections: 95 pts
+* Top 5 recruiting class: 10 pts
+* 3 5 star recruits landed: 9 pts
+* **Total:** 2,728 points
 
 
+### Michigan (UM)
+* **9-4 overall record:**
+* 9-3 (7-2) reg. season record: 195 pts
+* Lost The Game: -150 pts
+* Lost The Game by 18 points: -18 pts
+* Bowl appearance: 80 pts
+* Finished #21 in AP poll: 5 pts
+* 3 losses as ranked team: -75 pts
+* 1 loss to unranked team: -100 pts
+* 3 first round picks: 120 pts
+* 7 NFL draft picks: 140 pts
+* 1 first team all B1G selection: 15 pts
+* 10 all big ten selections: 50 pts
+* 2 5 star recruits landed: 6 pts
+* **Total:** 268 points
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-2024
-
-OSU							UM
-14-2 overall record						8-5 overall record
-10-2 (7-2) reg. season record 205				7-5 (5-4) reg. season record 145
-National champions	500 points				The Game win 350
-NC appearance 350 points					Won The Game by 3 points
-4 playoff wins 1000						Reliaquest bowl winners 100
-CFP appearance 150					Bowl appearance 80
-Cotton Bowl winners (CFP finalist) (NC app. points)	1 AP/CFP top 5 win 60
-Rose Bowl winners (CFP semifinalist) 125		1 AP/CFP top 10 win 50
-CFP first round winners (CFP quarterfinalist) 90	2 ranked wins 50
-3 bowl wins 400 						3 losses as ranked team -75
-3 bowl appearances	 320					1 loss to unranked team -100
-2 AP/CFP top 5 wins 120					1 consensus all american 70
-2 AP/CFP top 10 wins 100					1 first round draft pick 40
-2 ranked wins 50 						13 NFL draft picks 260
-Finished #1 in final AP poll	25				1 big ten individual award	25
-2 losses as top 5 AP/CFP team -150			3 first team all B1G selections 45
-2 losses as ranked team -50				9 all big ten selections 45
-1 loss to unranked team -100				Total 1,148 points
-Lost The Game -200 points				
-Lost The Game by 3 points (-3 points)	
-2 consensus all americans 140
-1 first round draft pick 40
-4 NFL draft picks 80
-1 national individual award winner 50
-3 big ten award winners 75
-7 first team all big ten selections 105
-16 all big ten selections 80
-Top 5 recruiting class 10
-2 5 star recruits landed 6
-Total 3,338 points
-
-
-2025
-
-OSU							 UM
-12-2 overall record						9-4 overall record
-12-0 (9-0) reg. season record 255				9-3 (7-2) reg. season record 195
-The Game win 350 points					Lost The Game -150
-Won The Game by 18 points				Lost The Game by 18 points (-18)
-B1G title game appearance 200				Bowl appearance 80
-CFP appearance 150					Finished #21 in AP poll
-Bowl appearance	80					3 losses as ranked team -75 
-Undefeated regular season 200				1 loss to unranked team -100
-1 AP/CFP top 5 win	60 					3 first round picks 120
-1 AP/CFP top 10 win 50					7 NFL draft picks 140
-3 ranked wins 75 						1 first team all B1G selection 15
-Finished #5 in AP poll					10 all big ten selections 50 
-Heisman finalist 75						2 5 star recruits landed 6
-Finished #5 in AP poll					Total 268 points
-4 consensus all americans 280
-4 first round picks 160
-14 NFL draft picks 280
-3 national individual award winners 150
-6 big ten individual awards 75
-9 first team all big ten selection 135
-19 all big ten selections 95
-Top 5 recruiting class 10
-3 5 star recruits landed 9
-Total 2,728 points
-
-
-
-
+---
 
 Totals By Year
 OSU							 UM
