@@ -316,110 +316,188 @@
 
 ---
 
-Totals By Year
-OSU							 UM
-					2020
-2,828 points					 -125 points
-After 2020
-Total 2,828 points					 Total -125 points
-					2021
-	859 points		 				2,478 points
-After 2021
-Total 3,687 points					Total 2,353 points
-					2022
- 1,065 points 					 2,583 points								After 2022
-Total 4,752 points					Total 4,936 points
-					2023
-1,018 points					4,638 points
-					After 2023
-Total 5,770 points					Total 9,574 points
-					2024
- 3,518 points					1,148 points								After 2024
-Total 9,288 points					Total 10,722 points
-2025
- 2,728 points						268 points
-					After 2025
-Total 12,016 points					Total 10,990 points
+**Totals By Year**
+## 2020
+### Ohio State (OSU)	
+2,828 points
+### Michigan (UM)			
+-125 points
+## After 2020
+### Ohio State (OSU)
+Total 2,828 points	
+### Michigan (UM)
+Total -125 points
+## 2021
+### Ohio State (OSU)
+859 points		 		
+### Michigan (UM)	
+2,478 points
+## After 2021
+### Ohio State (OSU)
+Total 3,687 points	
+### Michigan (UM)	
+Total 2,353 points
+## 2022
+### Ohio State (OSU)
+1,065 points
+### Michigan (UM)
+2,583 points				
+## After 2022
+### Ohio State (OSU)
+Total 4,752 points		
+### Michigan (UM)
+Total 4,936 points
+## 2023
+### Ohio State (OSU)
+1,018 points		
+### Michigan (UM)
+4,638 points
+## After 2023
+### Ohio State (OSU)
+Total 5,770 points				
+### Michigan (UM)
+Total 9,574 points
+## 2024
+### Ohio State (OSU)
+3,518 points					
+### Michigan (UM) 
+1,148 points	
+## After 2024
+### Ohio State (OSU)
+Total 9,288 points	
+### Michigan (UM)
+Total 10,722 points
+## 2025
+### Ohio State (OSU)
+2,728 points	
+### Michigan (UM)
+268 points
+## After 2025
+### Ohio State (OSU)
+Total 12,016 points		
+### Michigan (UM)
+Total 10,990 points
+
+---
+
+#### OVERALL
+
+### Ohio State (OSU)								
+* **66-11 overall record**				
+* 59-6 (45-5) reg. season record		
+* 0 undefeated seasons 		
+* 1 National championship		
+* 2 national championship appearances		
+* 1 win in The Game					
+* 1 B1G title						
+* 2 big ten title game appearances			
+* 5 playoff wins					
+* 4 playoff appearances				
+* 3 time CFP semifinalist				
+* 2 time CFP quarterfinalist	
+* 4 NY6 bowl wins					
+* 7 NY6 bowl apps			
+* 6 bowl wins				
+* 10 bowl apps			
+* 2 undefeated regular seasons	
+* 4 AP/CFP top 5 wins (RS)		
+* 8 AP/CFP top 10 wins (RS)		
+* 12 ranked wins
+* 6 losses as AP/CFP top 5 team		
+* 6 losses as ranked team		
+* 1 loss to unranked team		
+* 0 losing seasons		
+* 4 losses in The Game		
+* -28 scoring margin in The Game	
+* 4 Heisman finalists			
+* 11 consensus all americans		
+* 14 first round draft picks		
+* 50 NFL draft picks			
+* 5 national individual award winners	
+* 23 big ten individual awards	
+* 42 first team all big ten selections		
+* 99 all big ten selections			
+* 6 top 5 recruiting classes
+* 14 5 star recruits landed		
 
 
+### Michigan (UM)
+* **59-16 overall record**
+* 53-13 (40-11) reg. season record
+* 1 Undefeated Season
+* 1 National championship
+* 1 National championship appearance
+* 4 wins in The Game
+* 3 B1G titles
+* 3 B1G title game appearances
+* 2 playoff wins
+* 3 playoff appearances
+* 3 time CFP semifinalist
+* 0 time CFP quarterfinalist
+* 1 NY6 bowl wins
+* 1 NY6 bowl apps.
+* 3 bowl wins
+* 6 bowl appearances
+* 2 undefeated regular seasons
+* 4 AP/CFP top 5 wins (RS)
+* 6 AP/CFP top 10 wins (RS)
+* 9 ranked wins
+* 0 losses as AP/CFP top 5 team
+* 9 losses as ranked team
+* 4 losses to unranked team
+* 1 losing season
+* 1 loss in The Game
+* +28 scoring margin in The Game
+* 1 heisman finalist
+* 6 consensus all americans
+* 9 first round draft picks
+* 52 NFL Draft picks
+* 8 national individual award winners
+* 10 big ten individual award winners
+* 26 first team all big ten selections
+* 70 all big ten selections
+* 0 top 5 recruiting classes
+* 3 5 star recruits landed
 
-OVERALL
-OSU 								UM
-66-11 overall record		|			59-16 overall record
-59-6 (45-5) reg. season record		|	53-13 (40-11) reg. season record
-0 undefeated seasons 		|		1 Undefeated Season
-1 National championship		|		1 National championship
-2 national championship appearances		1 National championship appearance
-1 win in The Game					4 wins in The Game
-1 B1G title						3 B1G titles
-2 big ten title game appearances			3 B1G title game appearances
-5 playoff wins					2 playoff wins
-4 playoff appearances				3 playoff appearances
-3 time CFP semifinalist				3 time CFP semifinalist
-2 time CFP quarterfinalist		|		0 time CFP quarterfinalist
-4 NY6 bowl wins					1 NY6 bowl wins
-7 NY6 bowl apps			|		1 NY6 bowl apps.
-6 bowl wins				|		3 bowl wins
-10 bowl apps			|		6 bowl appearances
-2 undefeated regular seasons	|		2 undefeated regular seasons
-4 AP/CFP top 5 wins (RS)		|		4 AP/CFP top 5 wins (RS)
-8 AP/CFP top 10 wins (RS)		|	6 AP/CFP top 10 wins (RS)
-12 ranked wins			|		9 ranked wins
-6 losses as AP/CFP top 5 team		|	0 losses as AP/CFP top 5 team
-6 losses as ranked team		|		9 losses as ranked team
-1 loss to unranked team		|		4 losses to unranked team
-0 losing seasons			|		1 losing season
-4 losses in The Game		|		1 loss in The Game
--28 scoring margin in The Game	|		+28 scoring margin in The Game
-4 Heisman finalists			|		1 heisman finalist
-11 consensus all americans		|	6 consensus all americans
-14 first round draft picks		|		9 first round draft picks
-50 NFL draft picks			|		52 NFL Draft picks
-5 national individual award winners	|	8 national individual award winners
-23 big ten individual awards	|		10 big ten individual award winners
-42 first team all big ten selections		|	26 first team all big ten selections
-99 all big ten selections			|	70 all big ten selections
-6 top 5 recruiting classes	|			0 top 5 recruiting classes
-14 5 star recruits landed		|		3 5 star recruits landed
+---
 							
-SCORING
-
-Undefeated season 400
-National championship 500
-National championship appearance 350
-Rivalry win 350 points
-Scoring margin of victory in the game
-Big ten title 300
-Big ten championship appearance 200
-Playoff win 250
-Playoff appearance 150
-CFP semifinalist 125 (2024-2029)
-CFP quarterfinalist 90 (2024-2029)
-NY6 Bowl win 125 (2020-2023)
-NY6 Bowl appearance 90 (2020-2023)
-Bowl win 100 
-Bowl appearance  80
-Undefeated regular season 200
-AP/CFP top 5 (RS) win 60
-AP/CFP top 10 (RS) win 50
-Ranked win (RS) 25
-Conference win (RS) 15
-Each win (RS) 10 
-AP poll finish
-Loss as top 5 AP/CFP team (RS) -75 points 
-Loss as ranked team (Reg. season) -25 points
-Loss to unranked team ( RS) -100 points
-Loss in The Game -150 points
-Scoring margin of loss in the game
-Losing season -200 points
-Heisman winner 250
-Heisman finalist 75
-Consensus all American 70
-First round draft pick 40
-NFL draft pick 20
-National individual award winners 50
-Big ten individual award winners 25
-All first team big ten selections 15 points
-All big ten selections 5 
-Top 5 Recruiting class 10 points 
-5 star recruit landed 3 points
+#### SCORING
+* Undefeated season 400 pts
+* National championship 500 pts
+* National championship appearance 350 pts
+* Rivalry win 350 points pts
+* Scoring margin of victory in the game pts
+* Big ten title 300 pts
+* Big ten championship appearance 200 pts
+* Playoff win 250 pts
+* Playoff appearance 150 pts
+* CFP semifinalist 125 pts (2024-2029)
+* CFP quarterfinalist 90 pts (2024-2029)
+* NY6 Bowl win 125 pts (2020-2023)
+* NY6 Bowl appearance 90 pts (2020-2023)
+* Bowl win 100 pts
+* Bowl appearance  80 pts
+* Undefeated regular season 200 pts
+* AP/CFP top 5 (RS) win 60 pts
+* AP/CFP top 10 (RS) win 50 pts
+* Ranked win (RS) 25 pts
+* Conference win (RS) 15 pts
+* Each win (RS) 10 pts
+* AP poll finish pts
+* Loss as top 5 AP/CFP team (RS) -75 pts 
+* Loss as ranked team (Reg. season) -25 pts
+* Loss to unranked team ( RS) -100 pts
+* Loss in The Game -150 pts
+* Scoring margin of loss in the game pts
+* Losing season -200 pts
+* Heisman winner 250 pts
+* Heisman finalist 75 pts
+* Consensus all American 70 pts
+* First round draft pick 40 pts
+* NFL draft pick 20 pts
+* National individual award winners 50 pts
+* Big ten individual award winners 25 pts
+* All first team big ten selections 15 pts
+* All big ten selections 5 pts
+* Top 5 Recruiting class 10 pts 
+* 5 star recruit landed 3 pts
