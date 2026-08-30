@@ -224,8 +224,8 @@
 * Cotton Bowl winners: (CFP finalist) NC app. pts 
 * Rose Bowl winners: (CFP semifinalist) 125 pts
 * CFP first round winners: (CFP quarterfinalist) 90 pts
-* 3 bowl wins: 400 pts		
-* 3 bowl appearances: 320 pts					
+* 4 bowl wins: 400 pts		
+* 4 bowl appearances: 320 pts					
 * 2 AP/CFP top 5 wins: 120 pts		
 * 2 AP/CFP top 10 wins: 100 pts		
 * 2 ranked wins: 50 pts	
