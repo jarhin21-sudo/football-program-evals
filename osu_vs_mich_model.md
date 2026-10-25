@@ -57,7 +57,7 @@
 * Finished #6 in final AP poll: 19 pts	
 * 2 losses as top 5 AP/CFP team: -150 pts	
 * 2 losses as ranked team: -50 pts	
-* Lost The Game: -200 pts		
+* Lost The Game: -250 pts		
 * Lost The Game by 15: -15 pts		
 * Heisman finalist: 75 pts			
 * 1 first round draft pick: 40 pts		
@@ -67,7 +67,7 @@
 * 15 all B1G selections: 75 pts
 * Top 5 recruiting class: 10 pts		
 * 5 5 star recruits landed: 15 pts		
-* **Total:** 859 points					
+* **Total:** 809 points					
 
 
 ### Michigan (UM)
@@ -112,7 +112,7 @@
 * Finished #4 in final ap poll: 21 pts			
 * 1 loss as AP/CFP top 5 team: -75 pts			
 * 1 loss as ranked team: -25 pts		
-* Lost The Game: -200 pts 					
+* Lost The Game: -250 pts 					
 * Lost The Game by 22 points: -22 pts	
 * Heisman finalist: 75 pts					
 * 2 consensus all americans: 140 pts				
@@ -123,7 +123,7 @@
 * 15 all B1G selections: 75 pts		
 * Top 5 recruiting class: 10 pts					
 * 2 5 star recruits landed: 6 pts			
-* **Total:** 1,065 points 						
+* **Total:** 1,015 points 						
 								
 
 ### Michigan (UM)
@@ -165,7 +165,7 @@
 * Finished #10 in final AP poll: 15 pts				
 * 1 loss as top 5 AP/CFP team: -75 pts			
 * 1 loss as ranked team: -25 pts 				
-* Lost The Game: -200 pts					
+* Lost The Game: -250 pts					
 * Lost The Game by 6 points: -6 pts			
 * Heisman finalist: 75 pts					
 * 1 consensus all american: 70 pts				
@@ -177,7 +177,7 @@
 * 17 all big ten selections: 85 pts				
 * Top 5 recruiting class: 10 pts				
 * 2 5 star recruits landed: 6 pts					
-* **Total:** 1,015 points						
+* **Total:** 965 points						
 
 
 ## Michigan (UM)
@@ -233,7 +233,7 @@
 * 2 losses as top 5 AP/CFP team: -150 pts			
 * 2 losses as ranked team: -50 pts			
 * 1 loss to unranked team: -100 pts				
-* Lost The Game: -200 pts				
+* Lost The Game: -250 pts				
 * Lost The Game by 3 points: -3 pts	
 * 2 consensus all americans: 140 pts
 * 1 first round draft pick: 40 pts
@@ -244,7 +244,7 @@
 * 16 all big ten selections: 80 pts
 * Top 5 recruiting class: 10 pts
 * 2 5 star recruits landed: 6 pts
-* **Total:** 4,018 points
+* **Total:** 3,968 points
 
 
 ### Michigan (UM)
@@ -300,7 +300,7 @@
 ### Michigan (UM)
 * **9-4 overall record:**
 * 9-3 (7-2) reg. season record: 195 pts
-* Lost The Game: -150 pts
+* Lost The Game: -250 pts
 * Lost The Game by 18 points: -18 pts
 * Bowl appearance: 80 pts
 * Finished #21 in AP poll: 5 pts
@@ -311,7 +311,7 @@
 * 1 first team all B1G selection: 15 pts
 * 10 all big ten selections: 50 pts
 * 2 5 star recruits landed: 6 pts
-* **Total:** 268 points
+* **Total:** 168 points
 
 ---
 
@@ -328,54 +328,54 @@ Total 3,028 points
 Total -125 points
 ## 2021
 ### Ohio State (OSU)
-859 points		 		
+809 points		 		
 ### Michigan (UM)	
 3,078 points
 ## After 2021
 ### Ohio State (OSU)
-Total 3,887 points	
+Total 3,837 points	
 ### Michigan (UM)	
 Total 2,953 points
 ## 2022
 ### Ohio State (OSU)
-1,065 points
+1,015 points
 ### Michigan (UM)
 3,183 points				
 ## After 2022
 ### Ohio State (OSU)
-Total 4,952 points		
+Total 4,852 points		
 ### Michigan (UM)
 Total 6,136 points
 ## 2023
 ### Ohio State (OSU)
-1,018 points		
+965 points		
 ### Michigan (UM)
 5,741 points
 ## After 2023
 ### Ohio State (OSU)
-Total 5,970 points				
+Total 5,817 points				
 ### Michigan (UM)
 Total 11,877 points
 ## 2024
 ### Ohio State (OSU)
-4,018 points					
+3,968 points					
 ### Michigan (UM) 
 1,548 points	
 ## After 2024
 ### Ohio State (OSU)
-Total 9,988 points	
+Total 9,785 points	
 ### Michigan (UM)
 Total 13,425 points
 ## 2025
 ### Ohio State (OSU)
 3,128 points	
 ### Michigan (UM)
-268 points
+168 points
 ## After 2025
 ### Ohio State (OSU)
-Total 13,116 points		
+Total 12,913 points		
 ### Michigan (UM)
-Total 13,693 points
+Total 13,593 points
 
 ---
 
@@ -486,7 +486,7 @@ Total 13,693 points
 * Loss as top 5 AP/CFP team (RS) -75 pts 
 * Loss as ranked team (Reg. season) -25 pts
 * Loss to unranked team ( RS) -100 pts
-* Loss in The Game -150 pts
+* Loss in The Game -250 pts
 * Scoring margin of loss in the game pts
 * Losing season -200 pts
 * Heisman winner 250 pts
