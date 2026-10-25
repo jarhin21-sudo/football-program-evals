@@ -464,7 +464,7 @@ Total 13,693 points
 * Undefeated season 400 pts
 * National championship 1000 pts
 * National championship appearance 350 pts
-* Rivalry win 750 points pts
+* Rivalry win 750 pts
 * Scoring margin of victory in the game pts
 * Big ten title 500 pts
 * Big ten championship appearance 200 pts
