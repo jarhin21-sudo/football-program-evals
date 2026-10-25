@@ -6,7 +6,7 @@
 * **7-1 overall record:**                               
 * 5-0 (5-0) reg. season record: 125 pts      
 * National Championship app: 350 pts          		
-* B1G title: 300 pts				
+* B1G title: 500 pts				
 * B1G title game app: 200 pts                   
 * CFP win: 250 pts 				
 * CFP Appearance: 150 pts		
@@ -26,7 +26,7 @@
 * 17 all big ten selections: 85 pts
 * Top 5 recruiting class: 10 pts
 * 3 5 star recruits: 9 pts
-* **Total:** 2,828 pts 
+* **Total:** 3,028 pts 
 
 
 ### Michigan (UM)
@@ -73,9 +73,9 @@
 ### Michigan (UM)
 * **12-2 overall record:**
 * 11-1 (8-1) reg. season record: 230 pts
-* The Game Win: 350 pts
+* The Game Win: 750 pts
 * Won The Game: by 15 pts 
-* B1G title: 300 pts
+* B1G title: 500 pts
 * B1G title app: 200 pts
 * CFP appearance: 150 pts
 * NY6 bowl appearance: 90 pts
@@ -94,7 +94,7 @@
 * 3 Big ten individual awards: 75 pts
 * 6 first team all B1G selections: 90 pts
 * 15 all big ten selections: 75 pts
-* **Total:** 2,478 points
+* **Total:** 3,078 points
 
 ---
 
@@ -129,9 +129,9 @@
 ### Michigan (UM)
 * **13-1 overall record:**	
 * 12-0 (9-0) reg. season record: 255 pts
-* The Game win: 350 pts
+* The Game win: 750 pts
 * Won The Game: by 22 pts
-* B1G title: 300 pts
+* B1G title: 500 pts
 * B1G title game: app 200 pts
 * CFP appearance: 150 pts
 * NY6 appearance: 90 pts
@@ -149,7 +149,7 @@
 * 7 first all B1G selections: 105 pts
 * 15 all big ten selections: 75 pts
 * 1 5 star recruit landed: 3 pts
-* **Total:** 2,583 points
+* **Total:** 3,183 points
 
 ---
 
@@ -184,11 +184,11 @@
 * **15-0 overall record:**	
 * 12-0 (9-0) reg. season record: 255 pts
 * Undefeated season: 400 pts
-* National Champions: 500 pts
+* National Champions: 1000 pts
 * National championship app: 350 pts
-* The Game win: 350 pts
+* The Game win: 750 pts
 * Won The Game by 6 points: 6 pts
-* Big ten title: 300 pts
+* Big ten title: 500 pts
 * Big ten title game app: 200 pts
 * 2 playoff wins: 500 pts
 * Playoff appearance: 150 pts
@@ -208,7 +208,7 @@
 * 2 big ten individual awards: 50 pts
 * 9 first team big ten selections: 135 pts
 * 19 all big ten selections: 95 pts 
-* **Total:** 4,641 points
+* **Total:** 5,741 points
 
 ---
 
@@ -217,7 +217,7 @@
 ### Ohio State (OSU)					
 * **14-2 overall record:**						
 * 10-2 (7-2) reg. season record: 205 pts				
-* National champions: 500 pts				
+* National champions: 1000 pts				
 * NC appearance: 350 pts					
 * 4 playoff wins: 1000 pts					
 * CFP appearance: 150 pts				
@@ -244,13 +244,13 @@
 * 16 all big ten selections: 80 pts
 * Top 5 recruiting class: 10 pts
 * 2 5 star recruits landed: 6 pts
-* **Total:** 3,338 points
+* **Total:** 4,018 points
 
 
 ### Michigan (UM)
 * **8-5 overall record:**
 * 7-5 (5-4) reg. season record: 145 pts
-* The Game win: 350 pts
+* The Game win: 750 pts
 * Won The Game: by 3 pts
 * Reliaquest bowl winners: 100 pts
 * Bowl appearance: 80 pts
@@ -265,7 +265,7 @@
 * 1 big ten individual award: 25 pts
 * 3 first team all B1G selections: 45 pts
 * 9 all big ten selections: 45 pts
-* **Total:** 1,148 points
+* **Total:** 1,548 points
 
 ---
 
@@ -274,7 +274,7 @@
 ### Ohio State (OSU)							
 * **12-2 overall record:**						
 * 12-0 (9-0) reg. season record: 255 pts				
-* The Game win: 350 pts					
+* The Game win: 750 pts					
 * Won The Game by 18 points: 18 pts			
 * B1G title game appearance: 200 pts				
 * CFP appearance: 150 pts					
@@ -295,7 +295,7 @@
 * 19 all big ten selections: 95 pts
 * Top 5 recruiting class: 10 pts
 * 3 5 star recruits landed: 9 pts
-* **Total:** 2,728 points
+* **Total:** 3,128 points
 
 
 ### Michigan (UM)
@@ -319,64 +319,64 @@
 **Totals By Year**
 ## 2020
 ### Ohio State (OSU)	
-2,828 points
+3,028 points
 ### Michigan (UM)			
 -125 points
 ## After 2020
 ### Ohio State (OSU)
-Total 2,828 points	
+Total 3,028 points	
 ### Michigan (UM)
 Total -125 points
 ## 2021
 ### Ohio State (OSU)
 859 points		 		
 ### Michigan (UM)	
-2,478 points
+3,078 points
 ## After 2021
 ### Ohio State (OSU)
-Total 3,687 points	
+Total 3,887 points	
 ### Michigan (UM)	
-Total 2,353 points
+Total 2,953 points
 ## 2022
 ### Ohio State (OSU)
 1,065 points
 ### Michigan (UM)
-2,583 points				
+3,183 points				
 ## After 2022
 ### Ohio State (OSU)
-Total 4,752 points		
+Total 4,952 points		
 ### Michigan (UM)
-Total 4,936 points
+Total 6,136 points
 ## 2023
 ### Ohio State (OSU)
 1,018 points		
 ### Michigan (UM)
-4,638 points
+5,741 points
 ## After 2023
 ### Ohio State (OSU)
-Total 5,770 points				
+Total 5,970 points				
 ### Michigan (UM)
-Total 9,574 points
+Total 11,877 points
 ## 2024
 ### Ohio State (OSU)
-3,518 points					
+4,018 points					
 ### Michigan (UM) 
-1,148 points	
+1,548 points	
 ## After 2024
 ### Ohio State (OSU)
-Total 9,288 points	
+Total 9,988 points	
 ### Michigan (UM)
-Total 10,722 points
+Total 13,425 points
 ## 2025
 ### Ohio State (OSU)
-2,728 points	
+3,128 points	
 ### Michigan (UM)
 268 points
 ## After 2025
 ### Ohio State (OSU)
-Total 12,016 points		
+Total 13,116 points		
 ### Michigan (UM)
-Total 10,990 points
+Total 13,693 points
 
 ---
 
@@ -463,11 +463,11 @@ Total 10,990 points
 							
 #### SCORING
 * Undefeated season 400 pts
-* National championship 500 pts
+* National championship 1000 pts
 * National championship appearance 350 pts
-* Rivalry win 350 points pts
+* Rivalry win 750 points pts
 * Scoring margin of victory in the game pts
-* Big ten title 300 pts
+* Big ten title 500 pts
 * Big ten championship appearance 200 pts
 * Playoff win 250 pts
 * Playoff appearance 150 pts
