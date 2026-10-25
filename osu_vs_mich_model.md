@@ -284,8 +284,7 @@
 * 1 AP/CFP top 10 win: 50 pts				
 * 3 ranked wins: 75 pts 					
 * Finished #5 in AP poll: 21 pts					 
-* Heisman finalist: 75 pts					
-* Finished #5 in AP poll: 21 pts					
+* Heisman finalist: 75 pts									
 * 4 consensus all americans: 280 pts
 * 4 first round picks: 160 pts
 * 14 NFL draft picks: 280 pts
